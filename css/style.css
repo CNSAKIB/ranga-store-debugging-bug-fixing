@@ -2,7 +2,12 @@ body {
   overflow-x: hidden;
   font-family: "Montserrat", sans-serif;
 }
-
+.title-style{
+  font-family: 'Allison', cursive;
+}
+.title-style i{
+  font-size:25px;
+}
 .search-button {
   color: white;
 }
